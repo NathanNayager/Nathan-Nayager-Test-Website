@@ -1,0 +1,43 @@
+body {
+
+    background-color: #7D9D9C;
+
+}
+
+hr {
+
+    background-color: #7D9D9C;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 5%;
+
+
+}
+
+img {
+
+    height: 100px;
+
+}
+
+.Profile
+{
+    border-radius: 100%;
+}
+
+h1 {
+
+    color: #E4DCCF;
+
+
+}
+
+h3 {
+
+    color: #E4DCCF;
+    font-style: italic;
+
+}
+
